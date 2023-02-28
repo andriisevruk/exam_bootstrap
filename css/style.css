@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+nav img{
+    width: 25px;
+    margin-right: 20px;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.card1 {
+    width: 100%;
+    font-size: 20px;
+    height: 100vh;
+}
+.card1 .card-body {
+
+
+}
