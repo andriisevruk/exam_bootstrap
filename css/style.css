@@ -130,7 +130,7 @@ nav img{
     }
     .a, .c, .e {
         border-right: 1px solid gray;
-    }
+    }  
 }
 @media (max-width: 592px) {
     .features .col {
@@ -188,5 +188,17 @@ nav img{
         margin-right: 20px;
     }
 }
-
-
+/* footer */ 
+footer div {
+    text-align: center;
+}
+footer a img {
+    width: 40px;
+    border: 1px solid gray;
+    border-radius: 100%;
+    padding: 5px;
+}
+footer p {
+    text-align: center;
+    font-size: 13px;
+}
